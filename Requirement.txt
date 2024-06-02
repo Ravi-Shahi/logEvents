@@ -1,0 +1,5 @@
+1. create a logEvent module to genereate logs:
+   
+   Events formate:
+   
+   Date    time    event-id    log-msg
